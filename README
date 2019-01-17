@@ -1,0 +1,2 @@
+This code need Lyric_Tag_Data and Tag_Statistic to produce vectorized data for network training
+In my paper, the files are "Lyric_Tag_Dataset.json" and "Tags_Statistic.json"
